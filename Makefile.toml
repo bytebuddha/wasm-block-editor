@@ -1,0 +1,45 @@
+[tasks.build-minimal]
+disable = true
+workspace = false
+script = [
+    "wasm-pack build examples/minimal --target web --out-dir pkg",
+    "rollup ./examples/minimal/main.js --format iife --file ./examples/minimal/pkg/bundle.js"
+]
+
+[tasks.build-editor]
+disable = true
+workspace = false
+script = [
+    "wasm-pack build examples/editor --target web --out-dir pkg",
+    "rollup ./examples/editor/main.js --format iife --file ./examples/editor/pkg/bundle.js"
+]
+
+[tasks.serve-minimal]
+disable = true
+workspace = false
+script = [
+    "basic-http-server examples/minimal"
+]
+
+[tasks.serve-editor]
+disable = true
+workspace = false
+script = [
+    "basic-http-server examples/editor"
+]
+
+[tasks.minimal]
+disable = true
+workspace = false
+dependencies = [
+    "build-minimal",
+    "serve-minimal"
+]
+
+[tasks.editor]
+disable = true
+workspace = false
+dependencies = [
+    "build-editor",
+    "serve-editor"
+]

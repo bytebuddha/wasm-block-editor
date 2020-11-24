@@ -1,0 +1,25 @@
+[package]
+name = "wasm-block-editoryew"
+version = "0.1.0"
+authors = ["Bytebuddha <pmg41494@protonmail.com>"]
+edition = "2018"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[workspace]
+members = [
+    "examples/minimal",
+    "examples/editor"
+]
+
+[features]
+default = ["yew", "yewtil"]
+
+[dependencies]
+serde = { version = "*", features = ["derive"] }
+yew = { git = "https://github.com/yewstack/yew", optional = true }
+yewtil = { git = "https://github.com/yewstack/yew", optional = true }
+
+[package.metadata.wasm-pack.profile.release]
+wasm-opt = ["-Oz", "--enable-mutable-globals"]

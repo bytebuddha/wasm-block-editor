@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="77a3a02f-815b-482b-b465-6a344abd2d7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.cargo/config.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makefile.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/editor/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/editor/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/editor/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/editor/src/app.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/editor/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/minimal/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/minimal/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/minimal/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/minimal/src/app.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/minimal/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/blocks.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/renderer.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yew/editor.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yew/mod.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yew/raw.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yew/renderer.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/yew/view.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ukubjs31" />
+  </component>
+  <component name="ProjectId" id="1kepLz7aeXxECW8SZ5gTl2LNQqI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="xpath.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/yew" />
+    </key>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="/usr/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77a3a02f-815b-482b-b465-6a344abd2d7a" name="Default Changelist" comment="" />
+      <created>1606070861098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606070861098</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="611" y="353" width="688" height="405" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606105852153">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="611" y="353" width="688" height="405" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1920.1055@0.25.1920.1055" timestamp="1606105852153" />
+    <state x="693" y="301" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606238157740">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="693" y="301" width="524" height="509" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1920.1055@0.25.1920.1055" timestamp="1606238157740" />
+    <state x="486" y="187" width="1041" height="736" key="SettingsEditor" timestamp="1606111875744">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="486" y="187" width="1041" height="736" key="SettingsEditor/0.25.1920.1055@0.25.1920.1055" timestamp="1606111875744" />
+    <state x="644" y="278" width="631" height="548" key="find.popup" timestamp="1606238512588">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="644" y="278" width="631" height="548" key="find.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1606238512588" />
+    <state x="624" y="252" key="run.anything.popup" timestamp="1606070936522">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="624" y="252" key="run.anything.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1606070936522" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1606237016317">
+      <screen x="0" y="25" width="1920" height="1055" />
+    </state>
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1606237016317" />
+  </component>
+</project>

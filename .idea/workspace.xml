@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -11,35 +14,10 @@
   </component>
   <component name="CargoProjects">
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/examples/minimal/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="77a3a02f-815b-482b-b465-6a344abd2d7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.cargo/config.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/editor/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/editor/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/editor/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/editor/src/app.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/editor/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/minimal/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/minimal/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/minimal/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/minimal/src/app.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/minimal/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/blocks.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/renderer.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yew/editor.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yew/mod.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yew/raw.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yew/renderer.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/yew/view.rs" afterDir="false" />
-    </list>
+    <list default="true" id="77a3a02f-815b-482b-b465-6a344abd2d7a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,9 +103,9 @@
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
     <state x="624" y="252" key="run.anything.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1606070936522" />
-    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1606237016317">
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1606239069088">
       <screen x="0" y="25" width="1920" height="1055" />
     </state>
-    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1606237016317" />
+    <state x="623" y="257" width="672" height="678" key="search.everywhere.popup/0.25.1920.1055@0.25.1920.1055" timestamp="1606239069088" />
   </component>
 </project>
